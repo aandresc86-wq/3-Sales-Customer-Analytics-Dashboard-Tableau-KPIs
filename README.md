@@ -14,15 +14,16 @@ Both views allow users to explore data dynamically through filtering by:
 ---
 
 ## 🎯 Business Problem  
-Businesses need to understand sales performance and customer behavior to identify growth opportunities and optimize revenue strategies.
+Businesses need to understand sales performance and customer behavior to identify growth opportunities and optimize revenue strategies. 
 
 ---
 
-## ✅ Business Impact  
-- Delivered actionable insights into sales trends and customer segments  
-- Identified key revenue drivers and high-value customer groups  
-- Improved decision-making in sales and marketing strategies  
-- Enhanced visibility of business performance through KPI tracking  
+## 💼 Business Impact
+- Improved **visibility of sales and customer performance**
+- Enabled **faster and more informed decision-making**
+- Supported **self-service analytics**
+- Enhanced identification of **trend patterns and customer behavior**
+- Strengthened **performance monitoring through interactive dashboards**
 
 ---
 
@@ -151,15 +152,6 @@ This dashboard enables users to:
 - **Customer Analytics**
 - **Interactive Filtering**
 - **User Experience Optimization**
-
----
-
-## 💼 Business Impact
-- Improved **visibility of sales and customer performance**
-- Enabled **faster and more informed decision-making**
-- Supported **self-service analytics**
-- Enhanced identification of **trend patterns and customer behavior**
-- Strengthened **performance monitoring through interactive dashboards**
 
 ---
 
